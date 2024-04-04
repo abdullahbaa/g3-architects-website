@@ -71,6 +71,7 @@ main{
 .teams-container{
     display: flex;
     align-items: center;
+    padding: 50px 240px;
 }
 .teams-img-container{
     display: grid;
@@ -100,6 +101,9 @@ main{
 
 
 /* Facts section */
+.facts{
+    padding: 50px 240px;
+}
 .facts-card-container{
     display: flex;
     justify-content: space-around;
@@ -128,7 +132,19 @@ margin-top: 5px;
     margin-bottom: 10px;
 }
 
+/* features section-02  */
 
+
+.features{
+    display: flex;
+    padding:50px 240px ;
+}
+
+.features-img{
+    
+    width: 708px;
+    height: 982px;
+}
 
 
 /* responsive media styles */
