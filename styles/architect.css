@@ -142,12 +142,25 @@ margin-top: 5px;
 .features{
     display: flex;
     padding:50px 240px ;
+    gap: 100px;
 }
 
 .features-img{
     
     width: 708px;
     height: 982px;
+}
+.ten-years-badge{
+
+    border-radius: 8px;
+    background: #ff900e;
+    color: #FFF;
+    width: 342px;
+    padding: 30px;
+}
+.ten-years-badge h3{
+    font-size: 4rem;
+
 }
 /* sponsors styles */
 .sponsors{
