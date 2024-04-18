@@ -183,6 +183,12 @@ margin-top: 5px;
     width: 165px;
 
 }
+/* footer section */
+.last-section{
+   text-align: center;
+    background-color: #FFF;
+
+}
 /* responsive media styles */
 /* Mobile devices */
 @media screen and (max-width:576px) {
